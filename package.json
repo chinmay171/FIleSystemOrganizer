@@ -1,0 +1,23 @@
+{
+  "name": "FileOrganizer",
+  "version": "1.0.0",
+  "main": "FO.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinmay171/FIleSystemOrganizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinmay171/FIleSystemOrganizer/issues"
+  },
+  "homepage": "https://github.com/chinmay171/FIleSystemOrganizer#readme",
+  "description": "",
+  "bin": {
+    "peppy": "FO.js"
+  }
+}
