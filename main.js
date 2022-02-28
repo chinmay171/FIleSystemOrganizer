@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 const fs = require('fs')
 const path = require('path')
-let treeObj = require('./commands/tree')
-let helpObj = require('./commands/help')
-let organizeObj = require('./commands/organize')
+let treeObj = require('./com/tree')
+let helpObj = require('./com/help')
+let organizeObj = require('./com/organize')
 let inputarr = process.argv.slice(2)
 let command = inputarr[0]
 
