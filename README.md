@@ -8,4 +8,10 @@ This is the Project I Made in my 2nd year while i was still getting to get famil
 
 *fact~  this is made with only one language(javaScript)
 
+down here is the ss of file organized in more readable and approachable way--->>
+
+
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/72167507/156586353-a00ef1d2-5177-466c-b255-0e776b69033f.png">
+
+
 MARK STAR IF YOU APPRECIATE🙏
